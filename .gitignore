@@ -3,7 +3,7 @@
 ################################################################################
 
 /AnnotationProject/AnnotationProject.Domain/Commands/AnnotationCommand.cs
-/AnnotationProject/AnnotationProject.Domain/Entities/Annotation.cs
-/AnnotationProject/AnnotationProject.Shared/Entities/Entity.cs
+
 /AnnotationProject/AnnotationProject.Domain/Repositories/IAnnotationRepository.cs
 /AnnotationProject/.vs
+/.vs
